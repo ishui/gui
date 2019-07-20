@@ -1,0 +1,42 @@
+div.title_div {
+	text-align: center;
+}
+
+div.subtitle_div {
+  text-align: center;
+  margin: 30 0 30 0;
+}
+
+div.images_div {
+  position: relative;
+}
+
+div.links_div {
+}
+
+div.first_div {
+}
+
+div.last_div {
+}
+
+div.previous_div {
+}
+
+div.url_div {
+}
+
+div.next_div {
+}
+
+div.slideShowControl_div {
+	visibility: hidden;
+}
+
+table {
+}
+
+td {
+	border: 1px;
+	padding: 0 5 0 5;
+}
